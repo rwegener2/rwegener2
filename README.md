@@ -1,3 +1,4 @@
+![cover photo](https://raw.githubusercontent.com/rwegener2/rwegener2/main/cover_photo.jpeg)
 ### Hello, and welcome to my Github page! 🌍🛰️👋🏻
 
 - 🔭 I’m currently working on cloud optimized access of Icesat-2 data
