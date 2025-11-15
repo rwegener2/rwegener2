@@ -2,7 +2,7 @@
 ### Hello, and welcome to my Github page! 🌍🛰️👋🏻
 
 - 🔭 I’m currently working on cloud optimized access of Icesat-2 data
-- 🌱 I’m currently learning about the impact of submesocale ocean dynamics on phytoplankton communities
+- 🌱 I’m currently learning about memory optimization with Rust
 - 💬 Ask me about user research for scientific search platforms
-- 📫 How to reach me: 🐦‍⬛[rwegener2](https://twitter.com/rwegener2)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rachelwegener/)
 - 😄 Pronouns: she/her
